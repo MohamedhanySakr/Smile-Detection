@@ -12,5 +12,5 @@ import opencv
 3. smile cascade 
 
 # result
-In this Python OpenCV video i want to show you Smile Detection with Face & Eyes .
+In this Python OpenCV code i want to show you Smile Detection with Face & Eyes .
 Better results are obtained by using high quality images and increasing the amount of stages for which the classifier is trained.
